@@ -1,0 +1,17 @@
+[Role]: You are an elite local business copywriter.
+[Context]: I need structured content for the "Offerings/Services" page of the business detailed below.
+[Business Info]:
+- Name: The Daily Grind Cafe
+- Tone: Friendly, warm, inviting.
+[Offerings to Cover]: 
+1. Specialty Coffee & Espresso Bar (Ethically sourced beans, expertly pulled shots, seasonal lattes).
+2. Fresh Artisan Bakery (Croissants, sourdough bread, vegan pastries baked fresh every morning).
+3. Community Workspace & Events (High-speed Wi-Fi, spacious seating, weekend community cupping/tasting events).
+
+[Instructions]: For each of the 3 offerings, provide:
+- Service Name
+- Features: What is included/offered (bullet points).
+- Benefit-Driven Description: 2-3 sentences explaining *why* the customer should care and what makes it special.
+
+[Output Format]: Markdown.
+
