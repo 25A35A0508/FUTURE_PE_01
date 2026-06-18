@@ -1,0 +1,16 @@
+[Role]: You are an elite conversion-focused website copywriter specializing in local businesses. 
+[Context]: I need website copy for the Homepage of a local business.
+[Business Info]:
+- Name: The Daily Grind Cafe
+- Industry: Specialty Cafe & Artisan Bakery
+- Target Audience: Remote workers, neighborhood locals, and coffee enthusiasts.
+- Core Value Proposition: Ethically sourced, house-roasted specialty coffee paired with fresh, daily-baked pastries in a cozy space designed for productivity and community connection.
+- Desired Tone: Friendly, warm, inviting, and community-centric.
+
+[Instructions]: Generate the following components for the homepage:
+1. Headline: A short, catchy, benefit-driven headline focusing on the core value proposition.
+2. Sub-headline: Elaborate on who it is for and the main benefit. Keep it to 1-2 sentences.
+3. Hero Introduction Section: A brief, warm 2-paragraph introduction that welcomes visitors, highlights the atmosphere, and emphasizes the quality of the coffee and pastries. Do not use cliché AI phrases like "nestled in the heart of."
+
+[Output Format]: Markdown.
+
